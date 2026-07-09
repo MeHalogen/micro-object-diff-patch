@@ -1,6 +1,6 @@
 {
   "name": "micro-object-diff-patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A micro library to find semantic diffs between two JSON objects and apply patches.",
   "type": "module",
   "main": "./dist/index.js",
